@@ -1,2 +1,2 @@
-## Posting Homework and Additionl Work
+## Posting Homework and Additional Work
 
