@@ -1,0 +1,14 @@
+C:\Users\niksu\source\repos\Arrays\proverki 1\problem chas 2\obj\Debug\netcoreapp3.1\problem chas 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niksu\source\repos\Arrays\proverki 1\problem chas 2\obj\Debug\netcoreapp3.1\problem chas 2.AssemblyInfoInputs.cache
+C:\Users\niksu\source\repos\Arrays\proverki 1\problem chas 2\obj\Debug\netcoreapp3.1\problem chas 2.AssemblyInfo.cs
+C:\Users\niksu\source\repos\Arrays\proverki 1\problem chas 2\obj\Debug\netcoreapp3.1\problem chas 2.csproj.CoreCompileInputs.cache
+C:\Users\niksu\source\repos\Arrays\proverki 1\problem chas 2\obj\Debug\netcoreapp3.1\problem chas 2.dll
+C:\Users\niksu\source\repos\Arrays\proverki 1\problem chas 2\obj\Debug\netcoreapp3.1\problem chas 2.pdb
+C:\Users\niksu\source\repos\Arrays\proverki 1\problem chas 2\bin\Debug\netcoreapp3.1\problem chas 2.exe
+C:\Users\niksu\source\repos\Arrays\proverki 1\problem chas 2\bin\Debug\netcoreapp3.1\problem chas 2.deps.json
+C:\Users\niksu\source\repos\Arrays\proverki 1\problem chas 2\bin\Debug\netcoreapp3.1\problem chas 2.runtimeconfig.json
+C:\Users\niksu\source\repos\Arrays\proverki 1\problem chas 2\bin\Debug\netcoreapp3.1\problem chas 2.runtimeconfig.dev.json
+C:\Users\niksu\source\repos\Arrays\proverki 1\problem chas 2\bin\Debug\netcoreapp3.1\problem chas 2.dll
+C:\Users\niksu\source\repos\Arrays\proverki 1\problem chas 2\bin\Debug\netcoreapp3.1\problem chas 2.pdb
+C:\Users\niksu\source\repos\Arrays\proverki 1\problem chas 2\obj\Debug\netcoreapp3.1\problem chas 2.genruntimeconfig.cache
+C:\Users\niksu\source\repos\Arrays\proverki 1\problem chas 2\obj\Debug\netcoreapp3.1\problem chas 2.csproj.AssemblyReference.cache
